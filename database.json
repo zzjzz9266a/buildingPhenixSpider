@@ -1,5 +1,6 @@
 {
   "dsn":"mysql:host=localhost;dbname=motherfucker",
   "db_user": "root",
-  "db_password": "192837465"
+  "db_password": "192837465",
+  "table": "yunnan"
 }
